@@ -39,9 +39,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [Product Management Jobs](https://github.com/bansalnagesh/product-management-jobs)
-* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
-* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
+* [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
 * [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
+* [Product Management Jobs](https://github.com/bansalnagesh/product-management-jobs)
+* [Junior Tech Jobs](https://github.com/bansalnagesh/junior-tech-jobs)
+* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
 * [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
-* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
