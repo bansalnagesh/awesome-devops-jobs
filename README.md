@@ -6,25 +6,25 @@ A curated list of the best DevOps and SRE jobs, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-19*
+*Updated on 2025-04-21*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| Deel |  DevOps Engineer | 🌐 Remote | Apr 18 | [Apply](https://starjobs.dev/jobs/fa956847db6d49e8bddbac94a0f5f85c?utm=github) |
-| GitLab | Intermediate Site Reliability Engineer, Environment Automation | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/3255aeaedb674962aa9e6e5658a14ad1?utm=github) |
-| GitLab | Intermediate Site Reliability Engineer, Environment Automation | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/c8121498f63445bdb42501e6ddaa7a5a?utm=github) |
-| GitLab | Intermediate Site Reliability Engineer, Environment Automation | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/bb681b2fbf1146c5a7da894f582b2bba?utm=github) |
-| BCNC GROUP | DevOps Engineer | 📍 Spain | Apr 17 | [Apply](https://starjobs.dev/jobs/c5dbb560374d407aaab537b683d4cbaf?utm=github) |
-| Aderen | DevOps Engineer (Kubernetes) | 📍 Madrid, Community of Madrid, Spain | Apr 17 | [Apply](https://starjobs.dev/jobs/435c710ffcaa4402b6612e5e620dc9a9?utm=github) |
-| Banner Health | DevOps Engineer I | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/96c83b2630ac42bcb47e802d4eb86f98?utm=github) |
-| JAKALA | (Senior) DevOps Engineer (all genders) | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/01ec7f8f2e26442fba872ab46247946e?utm=github) |
-| Mastech Digital | DevOps Engineer | 📍 United States | Apr 17 | [Apply](https://starjobs.dev/jobs/ca8cd5c9bf094fb3b4e996cecee3f1a0?utm=github) |
-| Span | Senior DevOps Engineer | 📍 Bengaluru | Apr 17 | [Apply](https://starjobs.dev/jobs/4e5a501354cb4545a1dd60a03d935d91?utm=github) |
-| Span | Staff DevOps Engineer | 📍 Bengaluru | Apr 17 | [Apply](https://starjobs.dev/jobs/0a1d0f32086a40979a72cca699c29123?utm=github) |
-| Carrum Health | Staff DevOps Engineer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/50ecee7897aa4c0d81661687637020b1?utm=github) |
-| Bio-Rad Laboratories | Sr. DevOps Engineer 💰 | 📍 California, United States | Apr 16 | [Apply](https://starjobs.dev/jobs/1fce82c47885470a89339d042f26b852?utm=github) |
-| Textmagic AS | DevOps Lead | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/322610a08dcc4525a0c8e0e2045e22c0?utm=github) |
-| FreeWheel | Site Reliability Engineer 2 | 📍 Pennsylvania, United States | Apr 15 | [Apply](https://starjobs.dev/jobs/8063da163d0b429f952c1a0e1f6debba?utm=github) |
+| Wiraa | DevOps Engineer 💰 | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/ed7d65a2dc3747f0a47e06f5c5e2ab4b?utm=github) |
+| Capitole | Azure DevOps Engineer (Remote in Spain) | 📍 Spain | Apr 21 | [Apply](https://starjobs.dev/jobs/5d33eee94f274f6a8c86a8204c5f4831?utm=github) |
+| Syndicate | Software Engineer - Infrastructure & SRE | 📍 🌎 Anywhere in the World | Apr 21 | [Apply](https://starjobs.dev/jobs/090c59d83b9948ce9333ce49edb80c5f?utm=github) |
+| Arine | Senior DevOps Engineer | 🌐 Remote | Apr 20 | [Apply](https://starjobs.dev/jobs/be498747706d4578b1b1c601c5582480?utm=github) |
+| Scale3c | DevOps Engineer | 🌐 Remote | Apr 20 | [Apply](https://starjobs.dev/jobs/c5d97ddb2ea349ca91bbea6ea842c482?utm=github) |
+| Conception | Cloud Infrastructure Engineer | 🌐 Remote | Apr 20 | [Apply](https://starjobs.dev/jobs/91c23ef8472f43f4b7f1f69b294642ef?utm=github) |
+| Cloudflare | Software Engineer, Cloudforce One (Platform Abuse Response) | 📍 Greater London, England, United Kingdom | Apr 20 | [Apply](https://starjobs.dev/jobs/5dc5bc50458d4ecc8e5aafe23555175f?utm=github) |
+| Cloudflare | Frontend Engineer, UI Platform | 📍 Greater London, England, United Kingdom | Apr 20 | [Apply](https://starjobs.dev/jobs/592d2438a52b4e39bca2141f9ddcb173?utm=github) |
+| Gimmal | Associate Site Reliability Engineer | 🌐 Remote | Apr 19 | [Apply](https://starjobs.dev/jobs/26e027c2f30f4b2197cbd25cb39f0857?utm=github) |
+| Redapt | AWS DevOps Architect | 🌐 Remote | Apr 19 | [Apply](https://starjobs.dev/jobs/7907778d96be46ff8b29f414443ec38c?utm=github) |
+| Devoteam | DevSecOps - Platform Engineer | 🌐 Remote | Apr 19 | [Apply](https://starjobs.dev/jobs/c9d8bb3cc546483486a576dca4cceb92?utm=github) |
+| Barracuda | Senior DevOps Engineer | 📍 Pennsylvania, United States | Apr 19 | [Apply](https://starjobs.dev/jobs/7bb77745ed604c0685202db8ad97c752?utm=github) |
+| Barracuda | Senior DevOps Engineer | 📍 Massachusetts, United States | Apr 19 | [Apply](https://starjobs.dev/jobs/e1bea68e57b24130bb4f9add1ba55e9a?utm=github) |
+| Barracuda | Senior DevOps Engineer | 📍 Chelmsford, MA | Apr 19 | [Apply](https://starjobs.dev/jobs/80cb15503ebd4d25a08a9bfaad24972d?utm=github) |
+| Barracuda | Senior DevOps Engineer | 📍 Philadelphia, PA | Apr 19 | [Apply](https://starjobs.dev/jobs/768e7c87d7654b858e2c41e43169fdcb?utm=github) |
 
 
 ## About This List
@@ -37,9 +37,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
+* [Entry Level Tech Jobs](https://github.com/bansalnagesh/entry-level-tech-jobs)
+* [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
 * [Awesome Data Engineering Jobs](https://github.com/bansalnagesh/awesome-data-jobs)
-* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
-* [Junior Tech Jobs](https://github.com/bansalnagesh/junior-tech-jobs)
-* [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
-* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
-* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
+* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
+* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
+* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
